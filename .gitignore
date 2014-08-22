@@ -1,0 +1,7 @@
+include/
+man/
+bin/
+lib/
+.Python
+.idea/
+
